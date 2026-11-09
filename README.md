@@ -42,3 +42,7 @@ Review the selected date source before running: filesystem modification time may
 
 - `no_exif_data/` is created beside the images by the EXIF-based script for images without usable capture-date metadata.
 - `no_data/` is created inside the current directory by the filesystem-date script for images without a usable modification date. When running that script from this repository's `no_exif_data/` folder, this is `no_exif_data/no_data/`.
+
+## License
+
+This project is released under the 0BSD license. See [LICENSE](LICENSE) for the full text.
